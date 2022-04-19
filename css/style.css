@@ -9,10 +9,9 @@ body {
 }
 header, footer {
   background-color: #2a9d8f;
-  header, footer {
-    background-color: #2a9d8f;
-    text-align: left;
+  text-align: left;
   /*  min-width: 500px; */
+  }
 
   }
   header {
