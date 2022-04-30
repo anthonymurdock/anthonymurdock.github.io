@@ -11,9 +11,7 @@ header, footer {
   background-color: #2a9d8f;
   text-align: left;
   /*  min-width: 500px; */
-  }
-
-  }
+}
   header {
 font-family: 'Inter', sans-serif;
   color: #fff;
@@ -147,15 +145,19 @@ font-family: 'Roboto', sans-serif;
 }
 
 .container {
-  .container {
   /*  min-width: 500px; */
     margin: auto;
-  }
-  margin: auto;
+}
 
 
-footer {
-  margin-top: 44px;
+footer div {
+  height: 100%;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  display: flex;
+  align-content: center;
+  padding: 10px 20px;
+  color: rgba(255, 255, 255, 0.5);
 }
 @media all and (max-width:700px) {
   main {
